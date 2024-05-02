@@ -1,6 +1,3 @@
-```markdown
-# Flutter: Do's and Don'ts
-
 ## Functions
 
 ### Don't
@@ -93,5 +90,4 @@ class Person {
 
   Person({required this.name, required this.age});
 }
-```
 ```
